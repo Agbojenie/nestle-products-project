@@ -1,2 +1,7 @@
 # nestle-products-project
-to check the consumption of nestle products
+##project overview
+###project requirement
+####obejectives
+#####specifications
+#####analytics &reporting(data analytics)
+######objectives
