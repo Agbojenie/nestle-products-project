@@ -33,6 +33,8 @@ clean nestle products using microsoft excel and build an interactive dashboard s
 ####### BI: Analytics and reporting (data analytics)
 
 
+nnmm
+<img width="1181" height="532" alt="image" src="https://github.com/user-attachments/assets/8422079a-bbc2-448e-8247-a718e8f982b9" />
 
 
 #####analytics &reporting(data analytics)
