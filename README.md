@@ -28,7 +28,7 @@ clean nestle products using microsoft excel and build an interactive dashboard s
 **scope** focus on the provided data set only; historization of previous data set not neccessary 
 **documentation**provide clear documentation of  the data model bopth business stake holders and other analytical teams
 
-#######  BI: Analytics and reporting (data analytics)
+####### BI: Analytics and reporting (data analytics)
 
 ######## objectives
 build an excel based dashboard and give insights based on
