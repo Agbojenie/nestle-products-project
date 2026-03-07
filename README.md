@@ -1,6 +1,6 @@
-# nestle-products-project
+# nestle-products sales-project
 
-Welcome to the **nestle products project** repository
+Welcome to the **nestle products sales project** repository
 This project demostrates a comprehensive nestle products project, from cleaning products sales data to generating actionasble insights. designed as a portfolio highlights industry prtices in data analytics.
 
 ## project overview
@@ -28,7 +28,7 @@ clean nestle products using microsoft excel and build an interactive dashboard s
 **scope** focus on the provided data set only; historization of previous data set not neccessary 
 **documentation**provide clear documentation of  the data model bopth business stake holders and other analytical teams
 
-####### BI: Analytics and reporting (data analytics)
+#######  BI: Analytics and reporting (data analytics)
 
 ######## objectives
 build an excel based dashboard and give insights based on
@@ -41,9 +41,9 @@ this insights empowers the head of growth to take a wise and strategic decision.
 <img width="1181" height="532" alt="image" src="https://github.com/user-attachments/assets/8422079a-bbc2-448e-8247-a718e8f982b9" />
 
 ######### License
-This project is licensedunder the MIT Licsense(LICENSE). you are free to use, modify and share this.
+This project is licensed under the MIT Licsense(LICENSE). you are free to use, modify and share this.
 
 ########## About me
-i'm a young data analyst enthusiasts readt to face the data world head on.
-#####analytics &reporting(data analytics)
-######objectives
+i'm a young data analyst enthusiasts ready to face the data world head on.
+
+
