@@ -22,7 +22,7 @@ this project involves;
 ##### objectives
 clean nestle products using microsoft excel and build an interactive dashboard showing products in specific areas of concentration
 
-######specifications
+###### specifications
 **data source** import data from source provided as xlsc files
 **data  quality** cleanse and resolvedata quality issuesprior to analysis
 **scope** focus on the provided data set only; historization of previous data set not neccessary 
